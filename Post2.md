@@ -1,4 +1,4 @@
-##For this blog entry we will be discussing the experience of completing the tryhackme intro to networking.
+## For this blog entry we will be discussing the experience of completing the tryhackme intro to networking.
 
 ### Overall Impressions
 
