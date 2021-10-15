@@ -8,4 +8,6 @@ My name is Erica, I'm the hardware and network tech for Sierra at Tahoe ski reso
 
 Post 1 - [Defining Business Documents](https://pyrebuilder.github.io/CIS105LTCCclass/Post1)
 
-Post 2 - [Defining Business Documents](https://pyrebuilder.github.io/CIS105LTCCclass/Post2)
+Post 2 - [Networking 101](https://pyrebuilder.github.io/CIS105LTCCclass/Post2)
+
+Post 3 - [Cryptography 101](https://pyrebuilder.github.io/CIS105LTCCclass/Post3)
