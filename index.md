@@ -13,3 +13,5 @@ Post 2 - [Networking 101](https://pyrebuilder.github.io/CIS105LTCCclass/Post2)
 Post 3 - [Cryptography 101](https://pyrebuilder.github.io/CIS105LTCCclass/Post3)
 
 Post 4 - [Netowork+ cheat sheet](https://pyrebuilder.github.io/CIS105LTCCclass/Post4)
+
+Post 5 - [SOHO routers](https://pyrebuilder.github.io/CIS105LTCCclass/Post5)
